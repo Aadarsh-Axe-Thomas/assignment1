@@ -1,0 +1,141 @@
+*{
+	margin-left: 0px;
+	padding: 0px;
+}
+
+.nav-item{
+	width: 100px;
+	margin-left: 40px;
+	padding-left: 40px;
+	padding-top: 5px;
+	margin-top: 15px;
+
+}
+
+
+.navbar{
+	margin-top: 0px;
+	background: linear-gradient(0deg, rgba(185,181,255,1) 0%, rgba(255,255,255,1) 100%, rgba(0,212,255,1) 100%);
+}
+
+.imgbg{
+	background-size: cover;
+}
+
+
+
+.header{
+	min-height: 10vh;
+	background-image:linear-gradient(0deg, rgba(185,181,255,0.3) 0%, rgba(255,255,255,0.3) 100%, rgba(0,212,255,0.3) 100%),
+	url(https://wallpaperaccess.com/full/1635205.jpg);
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+	align-items: center;
+    justify-content: center;
+    color: white;
+    padding: 200px 100px 200px 100px;
+    min-width: 200px;
+
+}
+
+.col{
+	color: white;
+	background-image:linear-gradient(#8D39819C, #8D39819C),
+	url(https://i0.wp.com/www.tvseasonspoilers.com/wp-content/uploads/2022/01/One-Piece-Chapter-1037-Release-Date.jpg?w=1024&ssl=1);
+	background-position: center;
+	background-size: cover;
+	border-radius: 15px;
+	box-sizing: border-box;
+	transition: 0.5s;
+	max-width: 400px;
+	margin-bottom: 50px;
+	margin-left: 20px;
+	margin-right: 20px;
+	min-width: 350px;
+}
+
+.twocol{
+	color: white;
+	background-image:linear-gradient(#EAA71799, #EAA71799),
+	url(https://mlpnk72yciwc.i.optimole.com/cqhiHLc.WqA8~2eefa/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2020/10/One-Piece-Luffy-King-of-Pirates.jpg);
+	background-position: center;
+	background-size: cover;
+	border-radius: 15px;
+	max-width: 400px;
+	box-sizing: border-box;
+	transition: 0.5s;
+	margin-bottom: 50px;
+		margin-left: 20px;
+	margin-right: 20px;
+	min-width: 350px;
+}
+
+.threecol{
+	color: white;
+	background-image:linear-gradient(#17A6EA85, #17A6EA85),
+	url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeYBeTYM0wSrVLjeo18lP5-KrVbKETYDgBuA&usqp=CAU);
+	background-position: top;
+	background-size: cover;
+	border-radius: 15px;
+	box-sizing: border-box;
+	transition: 0.5s;
+	max-width: 400px;
+	margin-bottom: 50px;
+		margin-left: 20px;
+	margin-right: 20px;
+	min-width: 350px;
+
+}
+.col:hover{
+	box-shadow: 0px 0px 70px 0px #FBAA12;
+	cursor: pointer;
+}
+.twocol:hover{
+	box-shadow: 0px 0px 70px 0px #009DFE;
+	cursor: pointer;
+}
+.threecol:hover{
+	box-shadow: 0px 0px 70px 0px #FE0013;
+	cursor: pointer;
+}
+
+.row{
+	margin-top: 5%;
+	padding: 140px 0px 180px 0px;
+	text-align: center;
+	display: flex;
+	justify-content: space-around;
+}
+
+
+
+
+.buttonClass {
+  font-size:15px;
+  font-family:Arial;
+  width:140px;
+  height:50px;
+  border-width:1px;
+  color:#666666;
+  border-color:#dcdcdc;
+  font-weight:bold;
+  border-top-left-radius:6px;
+  border-top-right-radius:6px;
+  border-bottom-left-radius:6px;
+  border-bottom-right-radius:6px;
+  box-shadow:inset 0px 1px 0px 0px #ffffff;
+  text-shadow:inset 0px 1px 0px #ffffff;
+  background:linear-gradient(#f9f9f9, #b9b5ff);
+}
+
+.buttonClass:hover {
+  background: linear-gradient(#b9b5ff, #f9f9f9);
+}
+
+
+img{
+	margin-left: 30px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
