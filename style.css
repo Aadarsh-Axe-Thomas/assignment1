@@ -54,6 +54,7 @@
 	margin-left: 20px;
 	margin-right: 18px;
 	min-width: 350px;
+	padding: 190px 0px 0px 0px;
 }
 
 .twocol{
@@ -70,7 +71,9 @@
 		margin-left: 20px;
 	margin-right: 18px;
 	min-width: 350px;
+	padding: 190px 0px 0px 0px;
 }
+
 
 .threecol{
 	color: white;
@@ -86,19 +89,34 @@
 		margin-left: 20px;
 	margin-right: 18px;
 	min-width: 350px;
-
+	padding: 190px 0px 0px 0px;
 }
+
+
+
 .col:hover{
 	box-shadow: 0px 0px 70px 0px #FBAA12;
 	cursor: pointer;
+	background-image:
+	url(https://assets.traveltriangle.com/blog/wp-content/uploads/2015/03/Sunset-at-Kovalam-Beach.jpg);
+	color: rgb(0,0,0,0.7);
+	padding: 20px 0px 190px 0px;
 }
 .twocol:hover{
-	box-shadow: 0px 0px 70px 0px #009DFE;
+	box-shadow: 0px 0px 70px 0px #009D00;
 	cursor: pointer;
+	background-image:
+	url(https://assets.traveltriangle.com/blog/wp-content/uploads/2017/10/kerala-food.jpg);
+	padding: 20px 0px 190px 0px;
+	color: rgb(206,206,256,1);
 }
 .threecol:hover{
 	box-shadow: 0px 0px 70px 0px #FE0013;
 	cursor: pointer;
+	background-image:
+	url(https://www.travelogyindia.com/storage/app/itinerary/515/bestof-munnar.jpeg);
+	padding: 20px 0px 190px 0px;
+	color: rgb(0,0,0,0.7);
 }
 
 .row{
