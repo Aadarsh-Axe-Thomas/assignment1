@@ -11,9 +11,8 @@
 .header{
 	background-image:url(https://wallpaperaccess.com/full/1635205.jpg);
 	
-	background-size: cover;
+	background-size: cover;	
 	background-position: center;
-    justify-content: center;
     color: #0A1062;
     width: 100%;
  	font-size: 18px;
@@ -29,10 +28,10 @@
 .card{
  
 	background-image:linear-gradient(rgba(156,161,237,0.9), rgba(156,161,237,0.3));
-	padding: 20px;
+	padding: 10px;
 	margin: auto;
-	max-width: 500px;
-	min-width: 450px;
+	max-width: 300px;
+	min-width: 200px;
 	border-radius: 20px;
 	text-align: center;
 	transition: 0.2s;
@@ -56,7 +55,7 @@ i:hover{
 }
 
 input{
-	width:150px;
+	width:130px;
 		
 }
 
@@ -85,9 +84,9 @@ input{
 
 
 .nav-item{
-	width: 140px;
-	margin-left: 40px;
-	padding-left: 40px;
+	width: 130px;
+	margin-left: 30px;
+	padding-left: 30px;
 	padding-top: 5px;
 	margin-top: 15px;
 
@@ -101,7 +100,7 @@ input{
 
 
 img{
-	margin-left: 30px;
+	margin-left: 0px;
 	margin-top: 10px;
 	margin-bottom: 10px;
 	border-style: line;
