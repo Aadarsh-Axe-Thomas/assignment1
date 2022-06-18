@@ -6,8 +6,10 @@
 
 body{
 	display: flex;
-	background-image: url(mean.jpg);
+	/*background-image: url(mean.jpg);*/
+	background-image: url(https://i.pinimg.com/736x/64/61/c7/6461c7523abec7bc306edf1312903309.jpg);
 	background-size: cover;
+	background-position: center;
 	justify-content: center;
 	box-shadow:inset 0px 0px 219px -73px #863A8FFF;
 }
@@ -27,6 +29,7 @@ body{
   align-items: center;
   border-radius: 5%;
   background-image: url(img2.jpg);
+
   background-size: cover;
   color: white;
   flex-direction: column;
@@ -40,7 +43,7 @@ body{
 	width: 175px;
   justify-content: center;
   align-items: center;
-  background-image: url(download.jpg);
+  background-image: url(aadarshsama.png);
   background-size: cover;
 }
 
@@ -52,4 +55,8 @@ body{
 
 i{
 	cursor: pointer;
+	color: white;
+	height: 20px;
+	width: 20px;
+	margin: 0px 20px 0px 20px; 
 }

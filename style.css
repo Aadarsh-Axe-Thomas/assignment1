@@ -1,6 +1,7 @@
 *{
 	margin-left: 0px;
 	padding: 0px;
+	font-family: trebuchet ms;
 }
 
 .nav-item{
@@ -157,10 +158,156 @@
 }
 
 
-img{
-	margin-left: 30px;
-	margin-top: 10px;
-	margin-bottom: 10px;
-	border-style: line;
-	border-radius: 15px;
+
+.back{
+	margin: 0px;
+	padding-bottom: 50px; 
+	/*background-image: url(https://cdn.wallpapersafari.com/55/4/bTLK0A.png);*/
+	background-image: url(https://i.pinimg.com/736x/64/61/c7/6461c7523abec7bc306edf1312903309.jpg);
+	background-size: cover;
+	background-position: center;
+	width: 100.6%;
+	height: 110%;
+	text-align: center;
+
+}
+
+.divide{
+	height: 60px;
+}
+
+.distcard{
+	margin: auto;
+	padding: 20px;
+	min-width: 200px;
+	width: 60%;
+	display: vertical-flex;
+	box-sizing: border-box;
+	background-color: rgb(206,256,256,0.3);
+	border-radius: 20px;
+}
+
+.spotcont{
+	margin:30px 80px 0px 80px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.spot1{
+	height:250px;
+	min-width: 400px;
+	background-image: url(https://www.keralatourism.org/images/thalassery/static-banner/large/st-angelo-fort-18032020135917.jpg);
+	background-size: cover;
+	background-position: center;
+	border-radius: 20px;
+	margin-bottom: 30px;
+	color: white;
+}
+
+.spot2{
+	height:250px;
+	min-width: 400px;
+	background-image: url(https://live.staticflickr.com/3504/3272461595_01c8a9f74b_b.jpg);
+	background-size: cover;
+	background-position: center;
+	border-radius: 20px;
+	margin-bottom: 30px;
+	color: black;
+}
+
+
+.spot3{
+	height:250px;
+	min-width: 400px;
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Chaliyam_Harbour%2C_Calicut.jpg/800px-Chaliyam_Harbour%2C_Calicut.jpg);
+	background-size: cover;
+	background-position: center;
+	border-radius: 20px;
+	margin-bottom: 30px;
+	color: white;
+}
+
+
+.spot4{
+	height:250px;
+	min-width: 400px;
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Kozhikkod_Beach%21_Early_Morning%21.jpg/1024px-Kozhikkod_Beach%21_Early_Morning%21.jpg);
+	background-size: cover;
+	background-position: center;
+	border-radius: 20px;
+	margin-bottom: 30px;
+	color: white;
+
+}
+
+
+.spot5{
+	height:250px;
+	min-width: 400px;
+	background-image: url(https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTR5BRjU1YzSR50jrlqX474LLPb-I6E5ODbLkXLoQR6_B8Wfw69ASoBmWacPMWG6hOck2JQtzoP2q51UZQ-yTZyrA);
+	background-size: cover;
+	background-position: center;
+	border-radius: 20px;
+	margin-bottom: 30px;
+	color: black;
+}
+
+
+.spot6{
+	height:250px;
+	min-width: 400px;
+	background-image: url(https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQeQQw-SfDQygblWWzhhQNoGu1R7qs9ZMExBKqrsPuO41gCfIWZoaOL9KybsUMUpNUEd_4Mf6bBtHiA1vtwPlYOaw);
+	background-size: cover;
+	background-position: center;
+	border-radius: 20px;
+	margin-bottom: 30px;
+}
+
+
+.spot7{
+	height:250px;
+	min-width: 400px;
+	background-image: url(https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRH9aPqrJgLfJXDE5A_sRQ69bs2xoO45IXCpwrJsTUIH5CiXyhgVQOaR02JoosnoeuAJUz5VU2cvAuRNiF3GA4WSA);
+	background-size: cover;
+	background-position: center;
+	border-radius: 20px;
+	margin-bottom: 30px;
+	color: white;
+}
+
+
+.spot8{
+	height:250px;
+	min-width: 400px;
+	background-image: url(https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTzIOf1pTQqSHO3iYtFwGnVgKKXGN5GeHbTYLke8JwxwkeccubZSeDAAhhUWTo2zwqyorru0-MbJKyaRfph3QCB3w);
+	background-size: cover;
+	background-position: center;
+	border-radius: 20px;
+	margin-bottom: 30px;
+	color: white;
+}
+
+
+.spot9{
+	height:250px;
+	min-width: 400px;
+	background-image: url(https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQLESn5epMv19RwSlUI7drFSBNNGzDPP2nTqCInS1_k4VnQbhyiU5cx8ZOWDtLQ8fTlxpWVwCnbXI9o0ng6alMv4w);
+	background-size: cover;
+	background-position: center;
+	border-radius: 20px;
+	margin-bottom: 30px;
+	color: white;
+}
+
+
+.spot10{
+	height:250px;
+	min-width: 400px;
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJn4KgQ9rdECo9yUqdMm-TflABBdej_7O2G19oNrYu_IpQSWUtrqyt1bxHOFHpVEZfevfUaXPJ1CpIUFAWsQoImA);
+	background-size: cover;
+	background-position: center;
+	border-radius: 20px;
+	margin-bottom: 30px;
+	color: white;
 }
